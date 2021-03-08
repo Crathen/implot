@@ -21,7 +21,7 @@
   "platforms": "native",
   "dependencies":
   {
-    "imgui": "file:///home/p3p/workspace/imgui"
+    "imgui": "git@github.com:p3p/imgui.git#pio_docking"
   },
   "build": {
     "srcDir": "",
