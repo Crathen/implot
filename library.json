@@ -1,0 +1,32 @@
+{
+  "name": "ImPlot",
+  "keywords": "implot",
+  "description": "plots",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/p3p/implot.git"
+  },
+  "version": "0.8.1",
+  "authors":
+  [
+    {
+        "url": null,
+        "maintainer": false,
+        "email": "p3p@p3psoft.co.uk",
+        "name": "Chris Pepper"
+    }
+  ],
+  "frameworks": "*",
+  "platforms": "native",
+  "dependencies":
+  {
+    "imgui": "file:///home/p3p/workspace/imgui"
+  },
+  "build": {
+    "srcDir": "",
+    "includeDir": "",
+    "srcFilter": ["+<.>"]
+  }
+}
+
